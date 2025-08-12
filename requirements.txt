@@ -1,3 +1,6 @@
-sktime[all_extras]
-prometheus_api_client
-astral
+sktime[all_extras]~=0.38.4
+prometheus_api_client~=0.6.0
+astral~=3.2
+numpy
+pandas
+xgboost
