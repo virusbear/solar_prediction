@@ -1,0 +1,3 @@
+sktime[all_extras]
+prometheus_api_client
+astral
